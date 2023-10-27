@@ -8,7 +8,7 @@
 </head>
 <body>
     <main>
-        <section class="container"
+        <section class="container">
             <div>
                 <img src="https://i.pinimg.com/originals/d4/37/4b/d4374b6dc2934880eaa7a5e8989c1f64.jpg" 
                 alt="image" heigth="100" width="100" />
@@ -17,11 +17,13 @@
                 <h3 class="info">INFO PERSONNELLES</h3>
                 <p>Nom: Ethan Pellizzone</p>
                 <p>adresse: 7 rue des claire fontaine</p>
-                <p>numéro de télephone: <a  href="tel:0587878787">0475/27/14/95</a></p> 
-                <p>E-mail:<a href="mailto:ethan:pellizzone@gmail.com"> ethan.pellizzone@gmail.com </a>
+                <p>numéro de télephone: </p> 
+                <p><a href="tel:0587878787">0475/27/14/95</a></p>
+                <p>E-mail:</p>
+                <p><a href="mailto:ethan:pellizzone@gmail.com"> ethan.pellizzone@gmail.com </a></p>
                 <p>Date de naissance:18 mars 2006</p>
                 <p>Lieu de naissance: charleroi</p>
-                <p>linkedin:<p><a href="https://www.linkedin.com/in/ethan-pellizzone-345b99296/">linkedin.com/ethan-pellizzone</a>
+                <p>linkedin:</p><a href="https://www.linkedin.com/in/ethan-pellizzone-345b99296/">linkedin.com/ethan-pellizzone</a>
             </div>
             <div >
                 <h2 class="langue"> LANGUE</h2>
@@ -38,7 +40,6 @@
             </div>
             <div>
                 <H2 class="interet"> INTÉRÊTS </H2>
-                <p></p>
                 <ul>
                 <li>sport</li>
                 <li>lire</li>
@@ -54,8 +55,8 @@
                      Mon français est ma langue maternelle, et je le parle couramment. En ce qui concerne mes compétences en développement web,
                       j'ai une bases de HTML et CSS, ce qui me permet de concevoir des pages web avec une mise en page attrayante et responsive.
                        J'ai également quelques connaissances en PHP, bien que je sois encore en train de les développer. En ce qui concerne JavaScript,
-                        je suis encore débutant, mais je suis enthousiaste à l'idée d'apprendre davantage et de devenir plus compétent dans ce langage essentiel pour le développement web.</p> 
-                <p></p>
+                        je suis encore débutant, mais je suis enthousiaste à l'idée d'apprendre davantage et de devenir plus compétent dans ce langage essentiel pour le développement web.
+                </p> 
             </div>
             <!-- enseignement --->
             <div> 
@@ -64,18 +65,11 @@
                 <p>sept2019-juin222</p> 
                 <p class="charleroi">Institut Jean Jaurès Charleroi</p>
                 </div>
-                <div>
-                   <p></p>
-                   <p></p>                
-                </div>
             </div>
             <div> <!--experience profesionnelle-->
                 <h2 class="experience">EXPÉRIENCE PERSONNELLE</h2> 
                 <div>
                     <p class="aucune">aucune</p>
-                </div>
-                <div>
-                    <p></p>
                 </div>
             </div>
             <div> <!--compétences-->
@@ -96,23 +90,17 @@
                 <div class="progress-container3">
                     <div class="progress-bar3"></div>
                 </div>              
-               </div>
-               <div>
-               <p></p>
-               <p></p>
-               <p></p>
-               <p><p>
                </div>            
             </div>
             <div> <!--références-->
                 <h2 class="references">RÉFÉRENCES</h2> 
                  <p>M.Patrick Ghesquiere</p>                    
-                 <p><p>E-mail:<a href="mailto:patrick.ghesquiere@ifapme.be"> patrick.ghesquiere@ifapme.be </a></p>
-                 <p></p>                
-                </div>  
-                <div></div>                
-               
+                 <p>E-mail:<a href="mailto:patrick.ghesquiere@ifapme.be"> patrick.ghesquiere@ifapme.be </a></p>               
+                </div>                
            </div> 
+           <div>
+            <p class="button" > <a  href="cv-ethan-pellizzone.pdf" download="cv-ethan-pellizzone.pdf">Téléchargez le fichier PDF</a></p>
+           </div>
         </section>
     </main>
 </body>
