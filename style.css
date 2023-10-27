@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box ;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+        min-height: 100vh;
+        
+      
+}
+img {
+    border-radius: 50%;
+    }
+ul{
+        list-style-type: none;
+    }
+    .container{
+        display: flex;
+        width: 20vw;
+    }
+main{
+    display: flex;
+    flex-direction: row;
+}
+.container2{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    margin-left: 5rem;
+}
+.info{
+    margin-bottom: 1vh;
+}
+.link{
+    margin-bottom: 1vh;
+}
+.langue{
+    margin-bottom: 1vh;
+}
+.anglais{
+    margin-bottom: 1vh;
+}
+.interet{
+    margin-bottom: 1vh;
+}
+.ethan{
+    margin-bottom: 1vh;
+}
+.presentation{
+    margin-bottom: 1vh;
+}
+.enseignement{
+    margin-bottom: 1vh;
+}
+.charleroi{
+    margin-bottom: 1vh;
+}
+.experience{
+    margin-bottom: 1vh;
+}
+.aucune{
+    margin-bottom: 1vh;
+}
+.competences{
+    margin-bottom: 1vh;
+}
+.JS{
+    margin-bottom: 1vh;
+}
+.references{
+    margin-bottom: 1vh;
+}
+.progress-container{
+    width: 10vw;
+    min-height: 2vh;
+    
+}
+.progress-bar{
+    width: 33%;
+    min-height: 1rem;
+    background-color: green;
+}
+.progress-container {
+    width: 200px;
+    border: 1px solid black;
+    min-height: 1rem;
+}
+.progress-bar1{
+    width: 25%;
+    min-height: 1rem;
+    background-color: green;
+}
+.progress-container1 {
+    width: 200px;
+    border: 1px solid black;
+    min-height: 1rem;
+}
+.progress-bar2{
+    width: 20%;
+    min-height: 1rem;
+    background-color: green;
+}
+.progress-container2 {
+    width: 200px;
+    border: 1px solid black;
+    min-height: 1rem;
+}
+.progress-bar3{
+    width: 10%;
+    min-height: 1rem;
+    background-color: green;
+}
+.progress-container3 {
+    width: 200px;
+    border: 1px solid black;
+    min-height: 1rem;
+}
+.progress-bar4{
+    width: 75%;
+    min-height: 1rem;
+    background-color: green;
+}
+.progress-container4 {
+    width: 200px;
+    border: 1px solid black;
+    min-height: 1rem;
+}
+.progress-bar5{
+    width: 20%;
+    min-height: 1rem;
+    background-color: green;
+}
+.progress-container5 {
+    width: 200px;
+    border: 1px solid black;
+    min-height: 1rem;
+}
