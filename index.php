@@ -86,9 +86,6 @@
                 <div class="progress-container2">
                     <div class="progress-bar2"></div>
                 </div>
-                <p class="JS">JS<p>  
-                <div class="progress-container3">
-                    <div class="progress-bar3"></div>
                 </div>              
                </div>            
             </div>
